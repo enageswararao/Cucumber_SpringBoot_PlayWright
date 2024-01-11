@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="19.308" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="OrangeHRM is a human resource management system that can be customized to meet business needs" name="OrangeHRM is a human resource management  Login functionality" time="14.641">
+<system-out><![CDATA[
+When I login into OrangeHRM App.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
